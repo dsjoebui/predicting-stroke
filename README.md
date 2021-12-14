@@ -1,5 +1,5 @@
 # View jupyter notebook through nbviewer here:
-https://nbviewer.org/github/dsjoebui/predicting-stroke/blob/master/stroke-prediction-eda-and-classification.ipynb
+https://nbviewer.org/github/dsjoebui/stroke-prediction/blob/master/stroke-prediction-eda-and-classification.ipynb
 
 
 # About the Data
